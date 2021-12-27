@@ -1,2 +1,2 @@
 # Password-Generator
-A Fast quick open source and reliable password generator
+A Fast, quick, open source and reliable password generator
